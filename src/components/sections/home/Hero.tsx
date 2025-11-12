@@ -9,7 +9,7 @@ type LayoutStyle = 'asymmetric' | 'centered';
 
 const DEFAULT_HERO = {
   eyebrow: 'Test Environment',
-  headline: 'Simple test website',
+  headline: 'Simple test website Test',
   headlineEmphasis: 'ready',
   leadText:
     'This is a basic test hero section to validate the website functionality. Clean, minimal design for testing purposes.',
